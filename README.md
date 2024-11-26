@@ -8,7 +8,11 @@ Al-Azhar Mosque in Cairo.
 
 # Technologies Used
 
-## HTML ##structure element
+## HTML 
+structure element
 ## CSS
+styling
 ## Flexox
+display element by width.
 ## Google Font
+Custom typographic font.
